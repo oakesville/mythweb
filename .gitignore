@@ -3,3 +3,5 @@
 .*.swp
 .pc
 patches
+.project
+.settings/
